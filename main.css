@@ -1,0 +1,19 @@
+/* This is a css file. */
+
+* {font-family: Georgia, serif;
+
+	}
+
+h1 {
+
+	text-transform: uppercase;
+	
+
+}
+
+
+figcaption {color: dimgray;
+} 
+
+
+b {color: dimgray;}
